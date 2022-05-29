@@ -12,7 +12,7 @@
             </div>
             <div class="relative overflow-x-auto shadow-md sm:rounded-lg bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                 <div class="space-y-8 divide-y divide-gray-200 w-1/2 mt-10">
-                    <form>
+                    <form method="" enctype="multipart/form-data">
                         <div class="grid gap-6 mb-6 lg:grid-cols-2">
                             <div>
                                 <label for="title" class="flex-grow px-4 pb-4 md:block md:pb-0 md:overflow-y-auto text-gray-900 dark:text-white">Post Title</label>
